@@ -1,5 +1,6 @@
-### Hi, I'm Daniel! And I'm a Front End Developer student.
+### Hi, I'm Daniel!
 
+- I’m a front end developer student at Medieinstitutet in Malmö
 - I’m currently learning!
 - Goals: Become a full time front end developer
 
