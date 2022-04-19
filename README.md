@@ -1,9 +1,9 @@
-## Hi, I'm Daniel! And I'm a Front End Developer student.
+### Hi, I'm Daniel! And I'm a Front End Developer student.
 
 - I’m currently learning!
 - Goals: Become a full time front end developer
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -15,4 +15,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="padding-right:10px;" />
