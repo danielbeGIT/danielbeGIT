@@ -1,7 +1,7 @@
 ## Hi, I'm Daniel! And I'm a Front End Developer student.
 
-- I’m currently learning everything!
-- 2023 Goals: Graduate and become a full time front end developer
+- I’m currently learning!
+- Goals: Become a full time front end developer
 
 ## Languages and Tools:
 
