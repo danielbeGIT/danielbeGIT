@@ -7,7 +7,6 @@
 <a href="https://www.linkedin.com/in/daniel-be-8a7ba5221/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel's LinkedIn" style="padding-right:10px;" width="26px"/></a>
 
 <br />
-<br />
 
 ### Languages & Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
