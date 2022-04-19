@@ -3,12 +3,7 @@
 - I’m currently learning everything!
 - 2023 Goals: Graduate and become a full time front end developer
 
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/daniel-be-8a7ba5221)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/daniel-be-8a7ba522)
-
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
