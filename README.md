@@ -1,8 +1,6 @@
 ### Hi, I'm Daniel Be!
 - 🌱 I’m a front end developer student at Medieinstitutet in Malmö
-- 🙌 All feedback is good feedback
 - 🥅 Goals: Become a full time front end developer
-
 
 <br>
 Currently applying for internship:
@@ -10,6 +8,8 @@ Currently applying for internship:
 Autumn semester 2022 (10/10 - 16/12, week 41 - 50) 10 weeks
 <br>
 Spring semester 2023 (23/01 - 12/05, week 4 - 19) 16 weeks
+
+
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/daniel-be-8a7ba5221/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel's LinkedIn" style="padding-right:10px;" width="26px"/></a>
