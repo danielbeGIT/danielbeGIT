@@ -1,5 +1,5 @@
-<h2 align="center">Hi, I'm Daniel Be!</h2>
-<h3 align="center">🌱 I’m a front end developer student at Medieinstitutet in Malmö</h3>
+<h2 align="center">Hi, I'm Daniel Be!<br>
+🌱 I’m a front end developer student at Medieinstitutet in Malmö</h2>
 
 - 🥅 Goals: Become a full time front end developer
 - 🙌 All feedback is good feedback
