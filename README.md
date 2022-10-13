@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Daniel Be! 👋</h1>
 
-- 🥅 Goals: Become a full time front end developer
+- 🥅 Goals: Become a full-time Frontend developer
 - 🙌 All feedback is good feedback
 
 Currently applying for internship:
