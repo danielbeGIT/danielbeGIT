@@ -2,6 +2,20 @@
 - 🌱 I’m a front end developer student at Medieinstitutet in Malmö
 - 🥅 Goals: Become a full time front end developer
 
+## Languages that i've learned so far:
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- React
+- Node JS
+- Vue
+- MongoDB
+- MySQL
+- Adobe Creative Cloud (Photoshop, Illustrator and XD)
+- Figma
+- Agile methodology
+
 <br>
 Currently applying for internship:
 <br>
