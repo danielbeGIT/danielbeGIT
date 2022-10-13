@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Daniel Be! 
+<h1 align="center" style="text-decoration:none">Hi, I'm Daniel Be! 
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="25" height="25" />
+    <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 </h1> 
 
 - 🥅 Goals: Become a full-time Frontend developer
