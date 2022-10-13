@@ -1,15 +1,12 @@
-<h1 align="center">Hi, I'm Daniel Be!
-<h2 align="center">🌱 I’m a front end developer student at Medieinstitutet in Malmö
-  
+<h1 align="center">Hi, I'm Daniel Be!</h1>
+<h2 align="center">🌱 I’m a front end developer student at Medieinstitutet in Malmö</h2>
+
 - 🥅 Goals: Become a full time front end developer
 - 🙌 All feedback is good feedback
 
-<br>
-  Currently applying for internship:
-<br>
-  Autumn semester 2022 (10/10 - 16/12, week 41 - 50) 10 weeks
-<br>
-  Spring semester 2023 (23/01 - 12/05, week 4 - 19) 16 weeks
+Currently applying for internship:
+- Autumn semester 2022 (10/10 - 16/12, week 41 - 50) 10 weeks
+- Spring semester 2023 (23/01 - 12/05, week 4 - 19) 16 weeks
   
 ### Languages that i've learned so far:
 - HTML, CSS, Sass, JavaScript, React, Node.js, MySQL
