@@ -1,5 +1,6 @@
 <h2 align="center">Hi, I'm Daniel Be!</h2>
 🌱 I’m a front end developer student at Medieinstitutet in Malmö
+<br>
 
 Currently applying for internship:
 <br>Autumn semester 2022 (10/10 - 16/12, week 41 - 50) 10 weeks
