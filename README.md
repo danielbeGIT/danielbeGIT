@@ -12,14 +12,15 @@ Spring semester 2023 (23/01 - 12/05, week 4 - 19) 16 weeks
 ## Languages that i've learned so far:
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
+- Sass
+- Bootstrap
 - React
-- Node JS
-- Vue
+- Node.jsv
+- Vue.js
 - MongoDB
 - MySQL
-- Adobe Creative Cloud (Photoshop, Illustrator and XD)
+- Adobe Photoshop, Illustrator, XD
 - Figma
 - Agile methodology
 
