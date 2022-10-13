@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Daniel Be! 👋</h1>
+<h1 align="center">Hi, I'm Daniel Be! 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="25" height="25" />
+    <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+</h1> 
 
 - 🥅 Goals: Become a full-time Frontend developer
 - 🙌 All feedback is good feedback
@@ -14,11 +17,11 @@ Currently applying for internship:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-be-8a7ba5221/)
 [![Email](https://img.shields.io/badge/EMail-F06B66?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:daniel_be_95@msn.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielbeGIT)
-
+<!-- [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](URL) -->
 <br>
 
 
-## Languages & Design
+## Languages & Knowledge
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -29,7 +32,6 @@ Currently applying for internship:
 ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-
 <br>
 
 
@@ -46,7 +48,6 @@ Currently applying for internship:
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
 <br>
 
 
