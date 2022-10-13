@@ -7,10 +7,15 @@ Currently applying for internship:
 <br>Autumn semester 2022 (10/10 - 16/12, week 41 - 50) 10 weeks
 <br>Spring semester 2023 (23/01 - 12/05, week 4 - 19) 16 weeks
 
+<br>
+
+
 ### Socials & Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-be-8a7ba5221/)
 [![Email](https://img.shields.io/badge/EMail-F06B66?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:daniel_be_95@msn.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielbeGIT)
+
+<br>
 
 
 ## Languages & Design
@@ -24,6 +29,8 @@ Currently applying for internship:
 ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+<br>
 
 
 ## Frameworks & Library
@@ -39,6 +46,8 @@ Currently applying for internship:
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+<br>
 
 
 ## Database & Cloud
