@@ -1,4 +1,4 @@
-## Hi, I'm Daniel Be!
+<h1 align="center"> Hi, I'm Daniel Be!
 - 🌱 I’m a front end developer student at Medieinstitutet in Malmö
 - 🥅 Goals: Become a full time front end developer
 
@@ -10,7 +10,7 @@ Autumn semester 2022 (10/10 - 16/12, week 41 - 50) 10 weeks
 Spring semester 2023 (23/01 - 12/05, week 4 - 19) 16 weeks
 
 ### Languages that i've learned so far:
-- HTML, CSS, JavaScript, React, Node.js, MySQL
+- HTML, CSS, Sass, JavaScript, React, Node.js, MySQL
 - Adobe Photoshop, Illustrator, XD & Figma
 
 
