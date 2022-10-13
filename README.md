@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniel Be!</h1>
+<h2 align="center">Hi, I'm Daniel Be!</h2>
 <h2 align="center">🌱 I’m a front end developer student at Medieinstitutet in Malmö</h2>
 
 - 🥅 Goals: Become a full time front end developer
