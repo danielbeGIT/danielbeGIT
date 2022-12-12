@@ -6,7 +6,6 @@
 - 🙌 All feedback is good feedback
 
 Currently applying for internship:
-<br>Autumn semester 2022 (10/10 - 16/12, week 41 - 50) 10 weeks
 <br>Spring semester 2023 (23/01 - 12/05, week 4 - 19) 16 weeks
 
 <br>
