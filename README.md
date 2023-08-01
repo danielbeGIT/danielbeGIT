@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving gif" width="25" height="25" />
 </h1> 
 
-- 🥅 Goals: Become a full-time Frontend developer
+- 🥅 Goals: Become a skilled Frontend developer
 - 🙌 All feedback is good feedback
 
 <br>
